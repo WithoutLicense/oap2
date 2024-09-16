@@ -18,7 +18,7 @@ Este objeto será responsável por gerenciar toda a comunicação assíncrona co
 
 Configuração da Requisição:
 
-xhr.open('GET', 'https://api.nossaempresa.com.br/produtos', true);
+xhr.open('GET', 'https://api.trabalhooap2.com.br/produtos', true);
 
 O método open() configura a requisição. Neste exemplo, usamos o método HTTP GET para uma API de produtos.
 O terceiro parâmetro true indica que a requisição será assíncrona.
